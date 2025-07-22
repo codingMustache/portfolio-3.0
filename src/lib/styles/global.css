@@ -1,0 +1,13 @@
+html {
+	background-color: var(--dg);
+}
+h1 {
+	font-family: 'rotund';
+	font-size: 72pt;
+	font-weight: 100;
+}
+p {
+	font-family: roboto;
+	font-weight: 200;
+	font-size: 18pt;
+}

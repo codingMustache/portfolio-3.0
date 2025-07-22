@@ -1,0 +1,45 @@
+@font-face {
+	font-family: 'harley';
+	src: url('/fonts/cs-harley.bold-outline.otf');
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'lucid';
+	src: url('/fonts/lucid-type.a-brk.ttf');
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'rotund';
+	src: url('/fonts/rotund.ttf');
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'rotundo';
+	src: url('/fonts/rotundo.ttf');
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'under';
+	src: url('/fonts/underwhe.ttf');
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'undero';
+	src: url('/fonts/underwho.ttf');
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'roboto';
+	src: url('/fonts/RobotoFlex[GRAD,XOPQ,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght].ttf');
+	font-style: normal;
+	font-display: swap;
+}
