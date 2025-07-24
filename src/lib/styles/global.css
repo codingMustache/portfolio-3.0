@@ -1,13 +1,14 @@
 html {
-	background-color: var(--dg);
+  background-color: var(--dg);
+  cursor: url("/cursor.svg") 16 16;
 }
 h1 {
-	font-family: 'rotund';
-	font-size: 72pt;
-	font-weight: 100;
+  font-family: "rotund";
+  font-size: 72pt;
+  font-weight: 100;
 }
 p {
-	font-family: roboto;
-	font-weight: 200;
-	font-size: 18pt;
+  font-family: roboto;
+  font-weight: 200;
+  font-size: 18pt;
 }
